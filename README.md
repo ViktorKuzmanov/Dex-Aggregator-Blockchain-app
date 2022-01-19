@@ -34,7 +34,7 @@ ganache-cli --fork yourInfuraEndpoint --unlock 0x6555e1CC97d3cbA6eAddebBCD7Ca51d
 `truffle migrate --reset`
 5. Run tests  
 `truffle test test/test.js`
-6. Run the app
+6. Run the app  
 `cd client`
 `npm start`
 
